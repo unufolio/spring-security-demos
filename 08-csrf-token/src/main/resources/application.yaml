@@ -1,0 +1,16 @@
+spring:
+  security:
+    user:
+      name: unufolio
+      password: unufolio
+  thymeleaf:
+    cache: false
+    encoding: utf-8
+    enabled: true
+    prefix: classpath:/templates/
+  devtools:
+    livereload:
+      enabled: true
+    restart:
+      enabled: true
+      exclude: classpath:/static/**,classpath:/public/**

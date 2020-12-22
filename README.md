@@ -1,0 +1,16 @@
+# spring-security-demos
+- [x] 01-start
+- [x] 02-custom-pages
+- [x] 03-database
+- [x] 04-remember-me
+- [x] 05-mysql-custom-userdetails
+- [x] 06-json-response
+- [ ] 07-bearer-token-authentication
+- [ ] 08-json-username-password-authentication
+- [x] 09-csrf-token
+- [ ] 10-xss
+- [ ] 11-cors
+- [ ] 12-distributed-session
+- [ ] 13-sms-phone-email-authentication
+- [ ] 14-multi-config
+- [ ] 15-rbac

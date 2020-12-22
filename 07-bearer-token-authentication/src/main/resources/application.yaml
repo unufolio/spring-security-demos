@@ -1,0 +1,21 @@
+spring:
+  thymeleaf:
+    cache: false
+    encoding: utf-8
+    enabled: true
+    prefix: classpath:/templates/
+  devtools:
+    livereload:
+      enabled: true
+    restart:
+      enabled: true
+      exclude: classpath:/static/**,classpath:/public/**
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/security?characterEncoding=utf-8&useUnicode=true&useSSL=false&serverTimezone=Asia/Shanghai&allowPublicKeyRetrieval=true
+    username: root
+    password: root
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true

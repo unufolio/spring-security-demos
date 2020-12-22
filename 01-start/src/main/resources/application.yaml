@@ -1,0 +1,7 @@
+spring:
+  security:
+    user:
+      name: unufolio
+      password: unufolio
+  thymeleaf:
+    cache: false
