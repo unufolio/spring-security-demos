@@ -6,8 +6,8 @@
 - [x] 05-mysql-custom-userdetails
 - [x] 06-json-response
 - [ ] 07-bearer-token-authentication
+- [x] 08-csrf-token
 - [ ] 08-json-username-password-authentication
-- [x] 09-csrf-token
 - [ ] 10-xss
 - [ ] 11-cors
 - [ ] 12-distributed-session
